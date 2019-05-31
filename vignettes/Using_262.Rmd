@@ -1,0 +1,16 @@
+---
+title: "Using_test262"
+author: "AnnaClaire Marley"
+date: "5/31/2019"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{using_262}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Show examples of how to use different functions in your package:
